@@ -28,20 +28,20 @@ Follow these steps to use the notebook:
 3. Create 4 folders named mh, wl, sc, jh in your base directory.
 4. In your anaconda terminal, to run the command 
 
-"python image_generate.py --image data/train/X/ --output X"
+>> "python image_generate.py --image data/train/X/ --output X"
 
 5. Run the above line 4 times replacing 'X' in the command with mh, wl, sc, jh.
 6. Then CUT paste the folders with generated images into data/train_gen folder. You have successfully created augmented training data.
 7. Once again, create 4 folders named mh, wl, sc, jh in your base directory.
 8. In your anaconda terminal, to run the command 
 
-"python image_generate.py --image data/train/X/ --output X"
+>> "python image_generate.py --image data/train/X/ --output X"
 
 9. Run the above line 4 times replacing 'X' in the command with mh, wl, sc, jh.
 10. Then CUT paste the folders with generated images into data/validation_gen folder. You have successfully created augmented validation data.
 11. Your final directory structure will look like this:
 
-Project_folder (has image_generate.py/neuro140_final.ipynb)
+Base_Directory (has image_generate.py/neuro140_final.ipynb)
 - data 
   - train
     - mh
