@@ -45,18 +45,26 @@ Project_folder (has image_generate.py/neuro140_final.ipynb)
 - data 
   - train
     - mh
-    - .. (wl, sc, and jh)
+    - wl
+    - sc
+    - jh
   - validation
     - mh
-    - ..
+    - wl
+    - sc
+    - jh
   - test
     - test_images
   - train_gen
     - mh
-    - ..
+    - wl
+    - sc
+    - jh
   - validation_gen
     - mh
-    - ..
+    - wl
+    - sc
+    - jh
 
 12. You are ready to run the notebook.
 13. If you have any questions, reach out to: seeamnoor@college.harvard.edu
