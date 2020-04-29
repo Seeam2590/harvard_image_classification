@@ -68,3 +68,5 @@ Base_Directory (has image_generate.py/neuro140_final.ipynb)
 
 12. You are ready to run the notebook.
 13. If you have any questions, reach out to: seeamnoor@college.harvard.edu
+
+Note: If you change the initially provided imagges in the 'data' folder to data of your own and generate folders for each classes accordingly, the entire notebook can turn into your own image classification toolkit.
